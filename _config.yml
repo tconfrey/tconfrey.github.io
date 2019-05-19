@@ -18,12 +18,12 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:tconfrey@gmail.com
+  email: tconfrey@gmail.com
   facebook:
   flickr:
   github: barryclark/jekyll-now
-  instagram:tconfrey
-  linkedin:tconfrey
+  instagram: tconfrey
+  linkedin: tconfrey
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
