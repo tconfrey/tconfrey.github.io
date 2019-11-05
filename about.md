@@ -9,7 +9,7 @@ Tony Confrey's landing page on Github
 ### More Information
 
 See my repos and projects: 
-- [BrainTool](http://braintool.com)
+- [BrainTool](http://braintool.org)
 - [HealthValuePipelines](http://healthvaluepipelines.com)
 - [LinkedIn](http://linkedin.com/in/tconfrey)
 - [Instagram](http://instagram.com/tconfrey)
