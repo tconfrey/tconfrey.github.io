@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Tony Confrey's landing page on Github
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+See my repos and projects: 
+- [BrainTool](http://braintool.org)
+- [HealthValuePipelines](http://healthvaluepipelines.com)
+- [LinkedIn](http://linkedin.com/in/tconfrey)
+- [Instagram](http://instagram.com/tconfrey)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tconfrey@gmail.com](mailto:tconfrey@gmail.com)
